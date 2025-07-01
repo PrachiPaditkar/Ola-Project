@@ -1,5 +1,5 @@
 # Ola-Project- SQL+Power BI
-📌 Project Overview
+📌 Project Overview-
 This project focuses on analyzing Ola's ride and customer data to understand user behavior, operational performance, and revenue trends. Using SQL, data was extracted, cleaned, and analyzed to uncover key insights, while Power BI was used to visualize trends and build interactive dashboards to aid strategic business decisions.
 🎯 Objectives-
 Analyze customer ride data to understand usage patterns and preferences.
